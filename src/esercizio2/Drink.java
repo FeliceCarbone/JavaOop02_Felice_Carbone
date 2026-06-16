@@ -1,3 +1,5 @@
+package esercizio2;
+
 public class Drink {
     private String name;
     private double price;

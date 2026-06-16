@@ -1,3 +1,5 @@
+package esercizio2;
+
 public class Restaurant {
     private String name;
     private Dish[] dishes;

@@ -1,3 +1,5 @@
+package esercizio1;
+
 public abstract class Person {
     public String name;
     public String surname;

@@ -1,3 +1,5 @@
+package esercizio1;
+
 public class Employee extends Person {
     public int salary;
     public Employee(String name, String surname, int age, int salary) {

@@ -1,3 +1,5 @@
+package esercizio1;
+
 public class Freelancer extends Employee {
     public String project;
 

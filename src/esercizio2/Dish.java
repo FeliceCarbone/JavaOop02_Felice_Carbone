@@ -1,3 +1,5 @@
+package esercizio2;
+
 public class Dish{
     private String name;
     private double price;

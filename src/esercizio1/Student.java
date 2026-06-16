@@ -1,3 +1,5 @@
+package esercizio1;
+
 public class Student extends Person {
     public int average;
     public Student(String name, String surname, int age, int average) {
